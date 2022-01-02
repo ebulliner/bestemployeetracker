@@ -32,3 +32,8 @@
 # License
   ## MIT
   This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+
+## Screenshots
+![The Best Employee Tracker Start Prompt](assets/startprompt.png)
+![The Best Employee Tracker View](assets/view.png)
