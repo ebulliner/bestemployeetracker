@@ -1,5 +1,10 @@
- Best Employee Tracker Ever! ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
-  I made a pretty cool Employee Tracker. When the user types in node index.js on their terminal, the user will be presented with options. You can scroll through using the arrows on your keyboard to see the options and press the return key to make your selection. You can add values by using the "Add" option. You can add a department, role, or employee to their respective tables. 
+![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
+
+
+  Best Employee Tracker Ever! 
+
+
+  I made a pretty cool Employee Tracker. When the user types in "node index.js" on their terminal, the user will be presented with options. You can scroll through using the arrows on your keyboard to see the options and press the return key to make your selection. You can add values by using the "Add" option. You can add a department, role, or employee to their respective tables. 
   
   The user will just need to follow the prompts given to add values to the tables. You can update an employees role by using the "Update an employee role" option. When you are finished with making your updates on this app, the user will use the "Exit" option and the app will terminate and you will return to your terminal. Thank you for your time and using my app!
   # Table of Contents:
